@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Joker",
+  "description": "Why so serious?",
+  "version": "1.0",
+  "icons": { "128": "joker.png" },
+  "browser_action": {
+    "default_icon": "joker.png",
+    "default_popup": "popup.html"
+  }
+}
